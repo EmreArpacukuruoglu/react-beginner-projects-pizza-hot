@@ -1,1 +1,0 @@
-# BTK Akademi React Kursu
