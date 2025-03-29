@@ -1,0 +1,25 @@
+.theme-selector {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+.theme-links span {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 2px;
+  cursor: pointer;
+}
+.theme-links span:hover {
+  transition: all 0.3s;
+  scale: 1.2;
+  border: 1px solid rgb(0, 0, 0, 0.5);
+}
+.mode-toggle {
+  margin-right: auto;
+}
+.mode-toggle i {
+  font-size: 1.4rem;
+  cursor: pointer;
+}
